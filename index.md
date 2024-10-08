@@ -1,5 +1,5 @@
 # Placas bases
-### 1º DAW - Sistemas Informáticos
+### 1º DAW B - Sistemas Informáticos
 
 ## Evolución
 - **Primera Generación (1970s):** Placas base simples, con conectores para CPU y memoria. Ejemplo: Altair 8800.
