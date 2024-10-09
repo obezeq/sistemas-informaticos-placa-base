@@ -30,4 +30,65 @@
 - ![ASUS ROG Rampage VI Extreme Encore](https://m.media-amazon.com/images/I/71I2Z7LaoYL._AC_SX679_.jpg)
 
 ## Componentes
+
+- **Socket del Procesador**: 
+  - Conector específico para el CPU.
+  - Varía según el fabricante (Intel, AMD).
+
+- **Chipset**: 
+  - Controla la comunicación entre el CPU, RAM y otros dispositivos.
+  - Determina las características y capacidades de la placa base.
+
+- **Slots de RAM**: 
+  - Zócalos para módulos de memoria (DIMM).
+  - Soportan configuraciones de dual o quad channel.
+
+- **Slots de Expansión**: 
+  - PCIe para tarjetas gráficas, de sonido y otros dispositivos.
+  - Permiten la expansión de funcionalidades.
+
+- **Conectores de Almacenamiento**: 
+  - SATA para discos duros y SSDs.
+  - M.2 y NVMe para almacenamiento de alta velocidad.
+
+- **Puertos de Conexión**: 
+  - USB para periféricos.
+  - HDMI y DisplayPort para salida de video.
+  - Ethernet para conexión a redes.
+  - Conectores de audio para entrada/salida de sonido.
+
+- **BIOS/UEFI**: 
+  - Firmware que inicializa el hardware.
+  - Permite la configuración del sistema y ajustes de rendimiento.
+
+- **Socket del Procesador**: 
+  - Conector específico para el CPU.
+  - Varía según el fabricante (Intel, AMD).
+
+- **Chipset**: 
+  - Controla la comunicación entre el CPU, RAM y otros dispositivos.
+  - Determina las características y capacidades de la placa base.
+
+- **Slots de RAM**: 
+  - Zócalos para módulos de memoria (DIMM).
+  - Soportan configuraciones de dual o quad channel.
+
+- **Slots de Expansión**: 
+  - PCIe para tarjetas gráficas, de sonido y otros dispositivos.
+  - Permiten la expansión de funcionalidades.
+
+- **Conectores de Almacenamiento**: 
+  - SATA para discos duros y SSDs.
+  - M.2 y NVMe para almacenamiento de alta velocidad.
+
+- **Puertos de Conexión**: 
+  - USB para periféricos.
+  - HDMI y DisplayPort para salida de video.
+  - Ethernet para conexión a redes.
+  - Conectores de audio para entrada/salida de sonido.
+
+- **BIOS/UEFI**: 
+  - Firmware que inicializa el hardware.
+  - Permite la configuración del sistema y ajustes de rendimiento.
+
 ![COMPONENTES DE PLACA BASE](https://probandohardware.com/wp-content/uploads/2020/07/3.0_conexiones.jpg)
